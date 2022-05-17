@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				4,
+				90
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "at a run"
+		},
+		{
+			"offsets": [
+				0,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "speaking",
+			"loop": false,
+			"name": "speaking"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/stranger",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "sonic",
+	"flip_x": true,
+	"healthbar_colors": [
+		83,
+		132,
+		253
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
