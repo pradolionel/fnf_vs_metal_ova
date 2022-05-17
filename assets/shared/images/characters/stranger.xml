@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="stranger.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="at a run0000" x="100" y="100" width="326" height="504" frameX="-6" frameY="-6" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="at a run0001" x="100" y="100" width="326" height="504" frameX="-6" frameY="-6" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="at a run0002" x="526" y="100" width="322" height="510" frameX="-10" frameY="0" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="at a run0003" x="526" y="100" width="322" height="510" frameX="-10" frameY="0" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="at a run0004" x="948" y="100" width="317" height="503" frameX="-15" frameY="-8" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="at a run0005" x="1365" y="100" width="317" height="503" frameX="-15" frameY="-8" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="at a run0006" x="1782" y="100" width="307" height="501" frameX="-13" frameY="-9" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="at a run0007" x="2189" y="100" width="310" height="502" frameX="-10" frameY="-8" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="at a run0008" x="2599" y="100" width="299" height="505" frameX="-6" frameY="-5" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="at a run0009" x="2998" y="100" width="305" height="505" frameX="0" frameY="-5" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="at a run0010" x="2998" y="100" width="305" height="505" frameX="0" frameY="-5" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="at a run0011" x="2998" y="100" width="305" height="505" frameX="0" frameY="-5" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="at a run0012" x="2998" y="100" width="305" height="505" frameX="0" frameY="-5" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="at a run0013" x="2998" y="100" width="305" height="505" frameX="0" frameY="-5" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="at a run0014" x="2998" y="100" width="305" height="505" frameX="0" frameY="-5" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="at a run0015" x="3403" y="100" width="482" height="423" frameX="-55" frameY="-146" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="at a run0016" x="3985" y="100" width="0" height="0" frameX="-4" frameY="-9" frameWidth="537" frameHeight="569"/>
+	<SubTexture name="speaking0000" x="4085" y="100" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0001" x="4751" y="100" width="566" height="418"/>
+	<SubTexture name="speaking0002" x="5417" y="100" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0003" x="6080" y="100" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0004" x="6742" y="100" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0005" x="7405" y="100" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0006" x="100" y="710" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0007" x="4085" y="100" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0008" x="763" y="710" width="566" height="418"/>
+	<SubTexture name="speaking0009" x="1429" y="710" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0010" x="2092" y="710" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0011" x="2754" y="710" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0012" x="3417" y="710" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0013" x="4072" y="710" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0014" x="4735" y="710" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0015" x="5401" y="710" width="566" height="418"/>
+	<SubTexture name="speaking0016" x="6067" y="710" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0017" x="6730" y="710" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0018" x="7392" y="710" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0019" x="100" y="1228" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0020" x="755" y="1228" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0021" x="1418" y="1228" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0022" x="2084" y="1228" width="566" height="418"/>
+	<SubTexture name="speaking0023" x="2750" y="1228" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0024" x="3413" y="1228" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0025" x="4075" y="1228" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0026" x="4738" y="1228" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0027" x="5393" y="1228" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0028" x="6056" y="1228" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0029" x="6722" y="1228" width="566" height="418"/>
+	<SubTexture name="speaking0030" x="7388" y="1228" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0031" x="100" y="1746" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0032" x="762" y="1746" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0033" x="1425" y="1746" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0034" x="2080" y="1746" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0035" x="2743" y="1746" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0036" x="3409" y="1746" width="566" height="418"/>
+	<SubTexture name="speaking0037" x="4075" y="1746" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0038" x="4738" y="1746" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0039" x="5400" y="1746" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0040" x="6063" y="1746" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0041" x="6718" y="1746" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0042" x="7381" y="1746" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0043" x="100" y="2264" width="566" height="418"/>
+	<SubTexture name="speaking0044" x="766" y="2264" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0045" x="1429" y="2264" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0046" x="2091" y="2264" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0047" x="2754" y="2264" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0048" x="3409" y="2264" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0049" x="4072" y="2264" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0050" x="4738" y="2264" width="566" height="418"/>
+	<SubTexture name="speaking0051" x="5404" y="2264" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0052" x="6067" y="2264" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0053" x="6729" y="2264" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0054" x="7392" y="2264" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0055" x="100" y="2782" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0056" x="763" y="2782" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0057" x="1429" y="2782" width="566" height="418"/>
+	<SubTexture name="speaking0058" x="2095" y="2782" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0059" x="2758" y="2782" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0060" x="3420" y="2782" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0061" x="4083" y="2782" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0062" x="4738" y="2782" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0063" x="5401" y="2782" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0064" x="6067" y="2782" width="566" height="418"/>
+	<SubTexture name="speaking0065" x="6733" y="2782" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0066" x="7396" y="2782" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0067" x="100" y="3300" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0068" x="763" y="3300" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0069" x="1418" y="3300" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0070" x="2081" y="3300" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0071" x="2747" y="3300" width="566" height="418"/>
+	<SubTexture name="speaking0072" x="3413" y="3300" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0073" x="4076" y="3300" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0074" x="4738" y="3300" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0075" x="5401" y="3300" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0076" x="6056" y="3300" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0077" x="6719" y="3300" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0078" x="7385" y="3300" width="566" height="418"/>
+	<SubTexture name="speaking0079" x="100" y="3818" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0080" x="763" y="3818" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0081" x="1425" y="3818" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0082" x="2088" y="3818" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0083" x="2743" y="3818" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0084" x="3406" y="3818" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0085" x="4072" y="3818" width="566" height="418"/>
+	<SubTexture name="speaking0086" x="4738" y="3818" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0087" x="5401" y="3818" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0088" x="6063" y="3818" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0089" x="6726" y="3818" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0090" x="7381" y="3818" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0091" x="100" y="4336" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0092" x="766" y="4336" width="566" height="418"/>
+	<SubTexture name="speaking0093" x="1432" y="4336" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0094" x="2095" y="4336" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0095" x="2757" y="4336" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0096" x="3420" y="4336" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0097" x="4075" y="4336" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0098" x="4738" y="4336" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0099" x="5404" y="4336" width="566" height="418"/>
+	<SubTexture name="speaking0100" x="6070" y="4336" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0101" x="6733" y="4336" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0102" x="7395" y="4336" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0103" x="100" y="4854" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0104" x="755" y="4854" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0105" x="1418" y="4854" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0106" x="2084" y="4854" width="566" height="418"/>
+	<SubTexture name="speaking0107" x="2750" y="4854" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0108" x="3413" y="4854" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0109" x="4075" y="4854" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0110" x="4738" y="4854" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0111" x="5393" y="4854" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0112" x="6056" y="4854" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0113" x="6722" y="4854" width="566" height="418"/>
+	<SubTexture name="speaking0114" x="7388" y="4854" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0115" x="100" y="5372" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0116" x="762" y="5372" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0117" x="1425" y="5372" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0118" x="2080" y="5372" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0119" x="2743" y="5372" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0120" x="3409" y="5372" width="566" height="418"/>
+	<SubTexture name="speaking0121" x="4075" y="5372" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0122" x="4738" y="5372" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0123" x="5400" y="5372" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0124" x="6063" y="5372" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0125" x="6718" y="5372" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0126" x="7381" y="5372" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0127" x="100" y="5890" width="566" height="418"/>
+	<SubTexture name="speaking0128" x="766" y="5890" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0129" x="1429" y="5890" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0130" x="2091" y="5890" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0131" x="2754" y="5890" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0132" x="3409" y="5890" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0133" x="4072" y="5890" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0134" x="4738" y="5890" width="566" height="418"/>
+	<SubTexture name="speaking0135" x="5404" y="5890" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0136" x="6067" y="5890" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0137" x="6729" y="5890" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0138" x="7392" y="5890" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0139" x="100" y="6408" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0140" x="763" y="6408" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0141" x="1429" y="6408" width="566" height="418"/>
+	<SubTexture name="speaking0142" x="2095" y="6408" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0143" x="2758" y="6408" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0144" x="3420" y="6408" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0145" x="4083" y="6408" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0146" x="4738" y="6408" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0147" x="5401" y="6408" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0148" x="6067" y="6408" width="566" height="418"/>
+	<SubTexture name="speaking0149" x="6733" y="6408" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0150" x="7396" y="6408" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0151" x="100" y="6926" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0152" x="763" y="6926" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0153" x="1418" y="6926" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0154" x="2081" y="6926" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0155" x="2747" y="6926" width="566" height="418"/>
+	<SubTexture name="speaking0156" x="3413" y="6926" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0157" x="4076" y="6926" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0158" x="4738" y="6926" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0159" x="5401" y="6926" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0160" x="6056" y="6926" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0161" x="6719" y="6926" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0162" x="7385" y="6926" width="566" height="418"/>
+	<SubTexture name="speaking0163" x="100" y="7444" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0164" x="763" y="7444" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0165" x="1425" y="7444" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0166" x="2088" y="7444" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0167" x="2743" y="7444" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0168" x="3406" y="7444" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0169" x="4072" y="7444" width="566" height="418"/>
+	<SubTexture name="speaking0170" x="4738" y="7444" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0171" x="5401" y="7444" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0172" x="1425" y="7444" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0173" x="2088" y="7444" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0174" x="2743" y="7444" width="563" height="418" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0175" x="6063" y="7444" width="566" height="416" frameX="0" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0176" x="6729" y="7444" width="566" height="418"/>
+	<SubTexture name="speaking0177" x="7395" y="7444" width="563" height="413" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0178" x="5401" y="7444" width="562" height="418" frameX="-4" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0179" x="1425" y="7444" width="563" height="416" frameX="-3" frameY="0" frameWidth="566" frameHeight="418"/>
+	<SubTexture name="speaking0180" x="2088" y="7444" width="555" height="413" frameX="-11" frameY="0" frameWidth="566" frameHeight="418"/>
+</TextureAtlas>
