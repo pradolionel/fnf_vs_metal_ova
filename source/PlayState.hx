@@ -910,7 +910,7 @@ class PlayState extends MusicBeatState
 		scoreTxt.visible = !ClientPrefs.hideHud;
 		add(scoreTxt);
 		
-		watermark = new FlxText(scoreTxt.x + 30, scoreTxt.y, 100, "PORT BY
+		watermark = new FlxText(scoreTxt.x + 30, scoreTxt.y, -100, "PORT BY
 SOPUNIC508");
 		watermark.scrollFactor.set();
 		watermark.borderSize = 1.25;
