@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="eggman.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="eggman0000" x="100" y="100" width="674" height="244"/>
+	<SubTexture name="eggman0001" x="100" y="100" width="674" height="244"/>
+	<SubTexture name="eggman0002" x="874" y="100" width="674" height="244"/>
+	<SubTexture name="eggman0003" x="100" y="444" width="674" height="244"/>
+	<SubTexture name="eggman0004" x="874" y="444" width="674" height="244"/>
+	<SubTexture name="eggman0005" x="100" y="788" width="674" height="244"/>
+</TextureAtlas>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thorm.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="thorm0000" x="100" y="100" width="409" height="284" frameX="0" frameY="0" frameWidth="440" frameHeight="284"/>
+	<SubTexture name="thorm0001" x="609" y="100" width="422" height="284" frameX="0" frameY="0" frameWidth="440" frameHeight="284"/>
+	<SubTexture name="thorm0002" x="1131" y="100" width="431" height="284" frameX="0" frameY="0" frameWidth="440" frameHeight="284"/>
+	<SubTexture name="thorm0003" x="100" y="484" width="440" height="284"/>
+</TextureAtlas>
