@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-31,
+				68
+			],
+			"loop_name": "",
+			"idle_name": "Sonico nojao"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-46,
+				69
+			],
+			"loop_name": "",
+			"idle_name": "Sonico feli"
+		}
+	],
+	"image": "sonico"
+}

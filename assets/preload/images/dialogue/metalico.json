@@ -1,0 +1,38 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				-31,
+				68
+			],
+			"loop_name": "",
+			"idle_name": "metalico nojao"
+		},
+		{
+			"loop_offsets": [
+				-4,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				-31,
+				68
+			],
+			"loop_name": "",
+			"idle_name": "metalico feli"
+		}
+	],
+	"image": "metalico"
+}
