@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sonico.png"><SubTexture name="Sonico nojao0000" x="453" y="0" width="354" height="476" frameX="-11" frameY="-24" frameWidth="500" frameHeight="500" />
+<SubTexture name="Sonico feli0000" x="0" y="0" width="453" height="493" frameX="-45" frameY="-7" frameWidth="500" frameHeight="500" />
+</TextureAtlas>

@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="metalico.png"><SubTexture name="metalico nojao0000" x="0" y="0" width="343" height="471" frameX="-48" frameY="-29" frameWidth="500" frameHeight="500" />
+<SubTexture name="metalico feli0000" x="343" y="0" width="447" height="471" frameX="-48" frameY="-29" frameWidth="500" frameHeight="500" />
+</TextureAtlas>
