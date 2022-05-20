@@ -1,0 +1,11 @@
+{
+	"idle_anim": "idle sonic  instancia ",
+	"image": "sonic_menu",
+	"position": [
+		390,
+		64
+	],
+	"flipX": true,
+	"scale": 0.75,
+	"confirm_anim": "epic pose instancia"
+}
